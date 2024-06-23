@@ -6829,6 +6829,12 @@ blockquote .fa-quote-left {
 	color: #FF0000;
 }
 
+.blog_page .view_all a{
+	font-family: 'Gotham';
+	line-height: 24px;
+	text-decoration: underline;
+}
+
 .blog-post {
 	position: relative;
 	margin-bottom: 30px;
