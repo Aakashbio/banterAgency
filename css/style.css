@@ -6804,8 +6804,8 @@ blockquote .fa-quote-left {
 .blog_page .card_parent{
 	border-radius: 12px;
 	overflow: hidden;
-	height: 510px;
 	position: relative;
+	padding-bottom: 8px;
 }
 
 .blog_page .card_parent .card-title{
@@ -6819,7 +6819,7 @@ blockquote .fa-quote-left {
 	font-family: "Inter", sans-serif;
 	font-weight: 400;
 	color: #606060;
-	max-height: 80px;
+	max-height: 100px;
 	height: 100px;
 	font-size: 15px;
 	line-height: 25px;
