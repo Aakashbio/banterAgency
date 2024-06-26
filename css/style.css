@@ -6798,7 +6798,6 @@ blockquote .fa-quote-left {
 .blog_page .card_parent{
 	border-radius: 12px;
 	overflow: hidden;
-	height: 510px;
 	position: relative;
 }
 
@@ -6806,6 +6805,7 @@ blockquote .fa-quote-left {
 	font-family: 'Gotham';
 	line-height: 24px;
     font-weight: 600;
+	min-height: 48px;
 }
 
 .blog_page .card_parent .card-text{
