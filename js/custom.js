@@ -706,6 +706,7 @@ function testimonial_13_content(){
 		dots: false,				
 		margin:30,
 		autoplay:true, 
+		autoplayTimeout: 1000,
 		navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
 		responsive:{
 			0:{

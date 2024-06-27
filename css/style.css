@@ -6795,6 +6795,10 @@ blockquote .fa-quote-left {
 	cursor: pointer;
 }
 
+.blogs_padding{
+	padding: 220px 0px 160px 0px !important;
+}
+
 .blog_page .card_parent{
 	border-radius: 12px;
 	overflow: hidden;
@@ -20474,6 +20478,10 @@ ul.text-white li::before {
     padding-top: 12px;
 }
 
+.blogs_padding{
+	padding: 160px 0px 50px 0px !important;
+}
+
 .mp-t130{
 	padding-top:130px;
 }
@@ -20523,11 +20531,7 @@ ul.text-white li::before {
 @media only screen and (max-width:1199px){}
 @media only screen and (max-width: 1200px) {}
 @media(max-width:1300px) {}
-
-
-
-
-
+  
 
 
 
