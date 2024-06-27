@@ -698,8 +698,6 @@ function testimonial_13_content(){
 	
 
 
-//  home_client_carouse function by = owl.carousel.js ========================== //
-	function home_client_carousel_2(){
 	jQuery('.home-client-carousel-2').owlCarousel({
 		loop:true,
 		nav:false,
@@ -723,7 +721,6 @@ function testimonial_13_content(){
 			}
 		}
 	});
-	}	
 	
 
 // > Home_project_slider Full Screen with no margin function by = owl.carousel.js ========================== //
