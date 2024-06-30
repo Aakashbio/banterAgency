@@ -6786,6 +6786,10 @@ blockquote .fa-quote-left {
 	height: auto;
 }
 
+.text-black-2{
+	font-size: 61px !important;
+}
+
 
 /*======================================
 13. BLOG  
@@ -20486,7 +20490,7 @@ ul.text-white li::before {
 	padding-top:130px;
 }
 
-.center.wt-small-separator-outer h2 {
+.center.wt-small-separator-outer h2, .text-black-2 {
     font-size: 36px;
     line-height: 40px;
 }
