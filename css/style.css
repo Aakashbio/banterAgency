@@ -20495,6 +20495,10 @@ ul.text-white li::before {
     line-height: 40px;
 }
 
+.text-black-2{
+	font-size: 36px !important;
+}
+
 .section-head {
     margin-bottom: 15px;
 }
